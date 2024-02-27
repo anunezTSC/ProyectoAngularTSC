@@ -1,0 +1,29 @@
+img{
+    max-width: 100%; /* Ajusta el tamaño máximo al ancho del contenedor */
+    height: 150px; /* Permite que la altura se ajuste automáticamente para mantener la proporción */
+    border-radius: 8px; /* Añade esquinas redondeadas, ajusta según sea necesario */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Añade una sombra suave */
+
+}
+.card{
+    padding: 20px;
+    border-radius: 20px !important;
+    height: 450px;
+}
+.card-text{
+    color: olivedrab !important;
+
+}
+.btn{
+    border-radius: 20px !important;
+}
+.detalle{
+    text-decoration: none;
+    color: black;
+}
+.card-body{
+    overflow: auto !important;
+}
+
+
+

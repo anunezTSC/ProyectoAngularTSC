@@ -1,0 +1,13 @@
+.informativo{
+    /* display: flex !important;
+    justify-content: space-between !important; */
+}
+
+.card{
+   
+    border: none !important;
+
+}
+.icono{
+    font-size: 50px;
+}

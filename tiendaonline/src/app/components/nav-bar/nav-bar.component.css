@@ -1,0 +1,31 @@
+#menu{
+text-align: center !important;
+    
+}
+a:hover{
+  color: gold !important;
+}
+a{
+  color: black !important;
+  text-decoration: none !important;
+}
+
+
+.nav-link{
+    color: black !important;
+  }
+
+.carritoNav{
+  color: black !important;
+  font-size: 20px;
+  margin-top: 5px;
+  float:right !important;
+
+}
+.element.style{
+ visibility: visible !important;
+}
+
+modal-backdrop.show{
+  opacity: 0 !important;
+}

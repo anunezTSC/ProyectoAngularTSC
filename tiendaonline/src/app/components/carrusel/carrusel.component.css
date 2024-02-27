@@ -1,0 +1,44 @@
+.carousel-inner{
+
+    width: 100% !important;
+    align-content: center;
+}
+
+.carousel-inner img{
+
+
+    width: 100% !important;
+    max-height: 700px;
+}
+
+
+.carousel-item{
+
+    width: 100% !important;
+    max-height: 700px;
+}
+
+.carousel-indicators {
+    position: absolute;
+    bottom: 10px;
+    left: 50%;
+    transform: translateX(-50%);
+    display: flex;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+
+  .carousel-indicators li {
+    width: 10px;
+    height: 10px;
+    background-color: grey;
+    border-radius: 50%;
+    margin: 0 5px;
+    cursor: pointer;
+  }
+
+  .carousel-indicators .active {
+    background-color: black; /* Cambia el color del indicador activo si lo deseas */
+  }
+
